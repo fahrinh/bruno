@@ -32,7 +32,7 @@ Bruno 僅能夠離線使用，永遠不會計劃為 Bruno 增加雲端同步的�
 
 ```shell
 # 在 Mac 上使用 Homebrew 安裝
-brew install bruno
+brew install --cask bruno
 
 # 在 Windows 上使用 Chocolatey 安裝
 choco install bruno

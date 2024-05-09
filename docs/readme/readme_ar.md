@@ -40,7 +40,7 @@
 
 ```sh
 # على نظام Mac عبر Homebrew
-brew install bruno
+brew install --cask bruno
 
 # على نظام Windows عبر Chocolatey
 choco install bruno
@@ -64,6 +64,7 @@ echo "deb [signed-by=/etc/apt/keyrings/bruno.gpg] http://debian.usebruno.com/ br
 sudo apt update
 sudo apt
 ```
+
 ### التشغيل عبر منصات متعددة 🖥️
 
 ![bruno](https://github.com/usebruno/bruno/blob/main/assets/images/run-anywhere.png) <br /><br />
